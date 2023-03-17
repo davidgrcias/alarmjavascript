@@ -1,2 +1,0 @@
-# alarmjavascript
-Alarm Using JavaScript
